@@ -1,4 +1,4 @@
-/* 
+/*
 	Colors
 	#e8e9eb: blueish white;
   #357b70: blue;
@@ -68,7 +68,7 @@ a:active {
 }
 
 
-button:hover, button:focus, .button__secondary:hover, .button__secondary:focus, 
+button:hover, button:focus, .button__secondary:hover, .button__secondary:focus,
 .button:hover, .button:focus {
   /* lets the mouse appear as a hand when hovering over the button */
   cursor: pointer;
@@ -232,4 +232,3 @@ button:hover, button:focus, .button__secondary:hover, .button__secondary:focus,
 .cloud-back {
   animation: 34s cloud-move-reverse infinite alternate linear;
 }
-
