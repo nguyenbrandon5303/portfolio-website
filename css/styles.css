@@ -115,6 +115,7 @@ button:hover, button:focus, .button__secondary:hover, .button__secondary:focus,
   display: flex;
   width: 100%;
   padding: 20px;
+  background-color: var(--secondary-color);
 }
 
 .page-header__item {
