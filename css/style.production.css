@@ -314,3 +314,7 @@ button:hover, button:focus, .button__secondary:hover, .button__secondary:focus,
   -webkit-animation: 34s cloud-move-reverse infinite alternate linear;
           animation: 34s cloud-move-reverse infinite alternate linear;
 }
+
+ul.a {
+  list-style-type: circle;
+}
