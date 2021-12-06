@@ -319,7 +319,14 @@ ul.a {
   list-style-type: circle;
 }
 
+.center-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .center {
+  display: block;
+  text-align: center;
   margin: auto;
-  width: 60%;
+  width: 20%;
 }
