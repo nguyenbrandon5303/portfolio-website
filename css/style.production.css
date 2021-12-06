@@ -324,6 +324,10 @@ ul.a {
   margin-right: auto;
 }
 
+.center-form {
+  text-align: center;
+}
+
 .center {
   display: block;
   text-align: center;
