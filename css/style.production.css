@@ -318,3 +318,8 @@ button:hover, button:focus, .button__secondary:hover, .button__secondary:focus,
 ul.a {
   list-style-type: circle;
 }
+
+.center {
+  margin: auto;
+  width: 60%;
+}
